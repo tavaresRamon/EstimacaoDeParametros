@@ -22,8 +22,8 @@
                                           Todos os valores de (Xi - Media) = [-180,100]
                                           Todos os valores de (Xi - Media) = [-289,100]
                                          ----------------------------------------------
-                                          Soma  de (xi - media): [0,00]
-                                          Média 0 de (xi - media): [0,00]
+                                          Somatório  de (xi - media): [0,00]
+                                          Média do somatório de (xi - media): [0,00]
 -----------------------------------------------------------------------------------------------------
 
                                          Todos os valores de (xi - media)²: [39164,410]
@@ -37,8 +37,8 @@
                                          Todos os valores de (xi - media)²: [32436,010]
                                          Todos os valores de (xi - media)²: [83578,810]
                                      ------------------------------------------------------
-                                       Soma total dos valores de (x-media)²: [350072,900]
-                                       Média dos valores de (x-media)²: [35007,290]
+                                       Somatório dos valores de (x-media)²: [350072,900]
+                                       Média do somatório de (x-media)²: [35007,290]
 -----------------------------------------------------------------------------------------------------
                                          Todos os valores de de (Yi - média) : [2,466]
                                          Todos os valores de de (Yi - média) : [2,316]
@@ -51,8 +51,8 @@
                                          Todos os valores de de (Yi - média) : [-1,494]
                                          Todos os valores de de (Yi - média) : [-2,614]
                                    ----------------------------------------------------------
-                                         Soma da subtração de y com a média: [0,0000]
-                                         Média  da subtração de y com a média: [0,0000]
+                                        Somatório da subtração de (y) com a média: [0,0000]
+                                     Média  do somatório da subtração entre (y) a média: [0,0000]
 -----------------------------------------------------------------------------------------------------
                                  Todos os valores do produto de (xi-media)(yi-media): [488,021]
                                  Todos os valores do produto de (xi-media)(yi-media): [502,340]
