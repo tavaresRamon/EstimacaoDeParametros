@@ -51,7 +51,7 @@
                                          Todos os valores de de (Yi - média) : [-1,494]
                                          Todos os valores de de (Yi - média) : [-2,614]
                                    ----------------------------------------------------------
-                                         Soma da dubtração de y com a média: [0,0000]
+                                         Soma da subtração de y com a média: [0,0000]
                                          Média  da subtração de y com a média: [0,0000]
 -----------------------------------------------------------------------------------------------------
                                  Todos os valores do produto de (xi-media)(yi-media): [488,021]
@@ -65,8 +65,8 @@
                                  Todos os valores do produto de (xi-media)(yi-media): [269,069]
                                  Todos os valores do produto de (xi-media)(yi-media): [755,707]
                       -----------------------------------------------------------------------------------
-                                 Soma total do produto de (xi-media)(yi-media): [3229,016]
-                                 Média do somatorio do produto de (xi-media(yi-media): [322,902]
+                                 Somatório do produto de (xi-media)(yi-media): [3229,016]
+                                 Média do somatório do produto de (xi-media(yi-media): [322,902]
 -----------------------------------------------------------------------------------------------------
                                          Resultado do parâmetro B0: [2,19338]
                                          Resultado do parâmetro B1: [0,00922]
