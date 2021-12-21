@@ -40,20 +40,22 @@
                                        Somatório dos valores de (x-media)²: [350072,900]
                                        Média do somatório de (x-media)²: [35007,290]
 -----------------------------------------------------------------------------------------------------
-                                         Todos os valores de de (Yi - média) : [2,466]
-                                         Todos os valores de de (Yi - média) : [2,316]
-                                         Todos os valores de de (Yi - média) : [-1,894]
-                                         Todos os valores de de (Yi - média) : [0,476]
-                                         Todos os valores de de (Yi - média) : [0,686]
-                                         Todos os valores de de (Yi - média) : [1,346]
-                                         Todos os valores de de (Yi - média) : [0,716]
-                                         Todos os valores de de (Yi - média) : [-2,004]
-                                         Todos os valores de de (Yi - média) : [-1,494]
-                                         Todos os valores de de (Yi - média) : [-2,614]
-                                   ----------------------------------------------------------
-                                        Somatório da subtração de (y) com a média: [0,0000]
-                                     Média  do somatório da subtração entre (y) a média: [0,0000]
------------------------------------------------------------------------------------------------------
+
+                                          Todos os valores  de (y-média(y))²: [6,081]
+                                          Todos os valores  de (y-média(y))²: [5,364]
+                                          Todos os valores  de (y-média(y))²: [3,587]
+                                          Todos os valores  de (y-média(y))²: [0,227]
+                                          Todos os valores  de (y-média(y))²: [0,471]
+                                          Todos os valores  de (y-média(y))²: [1,812]
+                                          Todos os valores  de (y-média(y))²: [0,513]
+                                          Todos os valores  de (y-média(y))²: [4,016]
+                                          Todos os valores  de (y-média(y))²: [2,232]
+                                          Todos os valores  de (y-média(y))²: [6,833]
+                                    ---------------------------------------------------------
+                                          Somatório de (y-média(y)): [31,135]
+                                          Média do somatório de  (y-média(y)): [3,113]
+ -------------------------------------------------------------------------------------------------------      
+
                                  Todos os valores do produto de (xi-media)(yi-media): [488,021]
                                  Todos os valores do produto de (xi-media)(yi-media): [502,340]
                                  Todos os valores do produto de (xi-media)(yi-media): [384,671]
