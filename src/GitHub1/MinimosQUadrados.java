@@ -47,7 +47,17 @@ public class MinimosQUadrados {
         double somaYzero = subDey.stream().filter(n -> n > 0 ? n.isNaN() : n == 0).mapToDouble(Double::doubleValue).sum();
         double mediaYzero = somaYzero / subDey.size();
        
-
+        ArrayList<Double> difYAndMedia = new ArrayList<>();
+        for (Double value : vary) {
+            double pow = Math.pow((value - mediaY), 2);
+            difYAndMedia.add(pow);
+        }
+        for (Double aDouble : difYAndMedia) {
+            System.out.printf("Todos os valores  de (y-média(y))²: [%.3f]%n ", aDouble);
+        }
+        double sum = difYAndMedia.stream().mapToDouble(Double::doubleValue).sum();
+        double media = sum / difYAndMedia.size();
+        
 
         ArrayList<Double> produtoSubXeY = new ArrayList<>();
         for (int i = 0; i < vary.size(); i++) {
@@ -97,7 +107,12 @@ public class MinimosQUadrados {
 //        System.out.printf("Soma da subtração de y com a média: [%.4f]%n", somaYzero);
 //        System.out.printf("Média  da subtração de y com a média: [%.4f]%n", mediaYzero);
 //        System.out.println("-----------------------------------------------------------------------------------------------------");
+//
 // for (Double aDouble : produtoSubXeY) {
+//System.out.println("-----------------------------------------------------------------------------------------------------");
+//    System.out.printf("Soma de (y-média(y): [%.3f]%n ", sum);
+//      System.out.printf("Média do somatório de  (y-média(y)): [%.3f]%n", media);
+//        System.out.println("-----------------------------------------------------------------------------------------------------");
 //
 //            System.out.printf("Todos os valores do produto de (xi-media)(yi-media): [%.3f]%n", aDouble);
 //        }
